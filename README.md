@@ -11,3 +11,6 @@ step by step
    - Hanoi tower
 
 
+exmaple (process perfomer):
+- MultiplicationMatrix(a, b)
+- Sort number a[1...n] 
